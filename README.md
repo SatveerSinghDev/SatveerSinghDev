@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SatveerSinghDev
-- 👀 I’m interested in Android, IOS, Restful API
+- 👋 Hi, I’m Satveer Singh
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me
